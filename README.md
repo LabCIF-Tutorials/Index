@@ -1,7 +1,7 @@
 # Index
 
 List of the the available tutorials on this repository.
-Published [here](https://labcif-tutorials.github.io/Index/)
+Published [here](https://labcif-tutorials.github.io/Index/).
 
 ## Android
 
