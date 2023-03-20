@@ -5,10 +5,10 @@ Published [here](https://labcif-tutorials.github.io/Index/).
 
 ## Android
 
-1. [Install Android Studio to run apps]( https://labcif-tutorials.github.io/AndroidStudioEmulator-GUIconfig/) 
+1. [Install Android Studio to run apps (GUI)]( https://labcif-tutorials.github.io/AndroidStudioEmulator-GUIconfig/)
 	- This tutorial explains how to install Android Studio to run apps
-	- Tested on Ubuntu 20.04 and Windows 10
-2. [Install Android Emulator](https://labcif-tutorials.github.io/AndroidStudioEmulator-cmdConfig/) 
+	- Tested on Ubuntu 22.04 and Windows 10
+2. [Install Android Emulator (command line)](https://labcif-tutorials.github.io/AndroidStudioEmulator-cmdConfig/)
 	- This tutorial explains how to set up and run the Android Emulator **without** the Android Studio GUI using the command line tools
 3. [Install and acquire apps data on Android Emulator](https://labcif-tutorials.github.io/AndroidStudioEmulator-acquireAppsData/)
 	- This tutorial shows how to use the the `adb` command line tool to install apps inside the Android emulator and then how to get the files produced by them to later perform a digital forensics analysis
